@@ -68,7 +68,8 @@ var squareOptions = [
   "Main stream media",
   "Adrenochrome",
   "Gay frogs",
-  "Spider-goats"
+  "Spider-goats",
+  "Drinking on air"
 ];
 
 function getVariableSquares() {
