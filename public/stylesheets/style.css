@@ -1,0 +1,25 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+table.bingo-card {
+  text-align: center;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+td.bingo-square {
+  height: 110px;
+  width: 110px;
+  border: 1px solid;
+  padding: 1.25em;
+}
+
+div.footer {
+  bottom: 5px;
+  right: 5px;
+  position: fixed;
+  font-size: 75%;
+  color: grey;
+}

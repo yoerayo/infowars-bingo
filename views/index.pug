@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  h1= title
+  table.bingo-card
+    tbody
+      each square, index in squares
+        if index % 5 === 0
+          tr
+        td.bingo-square= square
